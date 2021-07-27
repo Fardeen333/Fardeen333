@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fardeen333
+- 👋 Hi, I’m Fardeen
 - 👀 I’m interested in Data Structures and Problem Solving
 - 🌱 I’m currently learning Android Development and Machine Learning
 - 💞️ I’m looking to collaborate on building a project based on technology either of the following Machine Learning or Android Development or BlockChain Development
